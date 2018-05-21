@@ -5,4 +5,4 @@ This board has been built and briefly tested.  I had started working on the code
 
 Being small was the driving factor behind designing the board.  The Atmel AVR XMEGA microcontroller was selected for its 7 UARTs.  I needed 5 in order to connect 4 receivers and one output connection.
 
-The schematic and board layot were created using CadSoft EAGLE.
+The schematic and board layout were created using CadSoft EAGLE.
